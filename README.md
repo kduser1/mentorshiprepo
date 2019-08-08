@@ -26,27 +26,11 @@
 <ul><li>Requirements</br></li></ul>
 <ul><li>Add Custom Task</br></li></ul>
 
+**Once maintainer submit his project submission pending review email is sent to maintainer for people and funding project** 
+
+**A new project has been submitted email is sent to a Linux Foundation administrator for people as well as for funding project. The administrator reviews your application and approves or rejects it.**
 
 
-
-
-
-**Requirements** 
-
-
-
-
-
-
-
-LF uses Salesforce to manage projects and its corresponding managers.CLA leverages same permissions to control project access in CLA Project Management Console.Once GRPC is configured, we will start seeing GRPC in the projects list after login.</br>
-**Pre Condition:**<ul><li>LFID configured in user permissions</li><li>Projects configured in Salesforce</li></ul>
-**Console:** Management Console</br>
-**Role:** Project Manager</br>
-**Steps:**<ol><li> Visit https://project.lfcla.com</li><li>Login with LFID</li><li>Configured projects appears (GRPC)</li></ol>
-**Expected:** GRPC project appears amongs list of projects on homepage</br>
-**Actual:** </br>
-**Status:** </br>
-
+**After Linux Foundation Administrator approves project will apapear in project list (Depending on project approve for people or funding platform it will appear in respective platform)also maintainer will get email notification **
 
 ##
