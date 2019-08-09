@@ -32,5 +32,11 @@ All the Project Mentor added to proejct will get invite notification after proje
 <li>Select Mentees</li>
 <li>Select a value from the Status drop-down list</li></ol>
 
+**Manage Application Tasks**
+
+**Contact a Mentee**
+<ul><li>Call</li>
+<li>Email</li></ul>
+
 
 ##
