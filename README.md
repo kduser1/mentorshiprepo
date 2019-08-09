@@ -52,7 +52,7 @@ All the Project Mentor added to proejct will get invite notification after proje
 <ul><li>Mentee Profile</li>
 <li>Skills</li>
 <li>Demographics</li>
-<li>Socioeconomics</li>
+<li>Socioeconomics</li></ul>
  
 <li>Apply to the project</li>
  
