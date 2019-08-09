@@ -44,19 +44,19 @@ All the Project Mentor added to proejct will get invite notification after proje
 
 <h2>Mentee Login</h2>
 
-Become a Mentee
+<ul><li>Become a Mentee</li>
 <ul><li>Create new sign up</li>
 <li>Verify Email address</li></ul>
 
-Complete Mentee Profile
+<li>Complete Mentee Profile</li>
 <ul><li>Mentee Profile</li>
 <li>Skills</li>
 <li>Demographics</li>
 <li>Socioeconomics</li>
  
- Apply to the project
+<li>Apply to the project</li>
  
- Complete Mentee Candidate Tasks
+<li>Complete Mentee Candidate Tasks</li></ul>
   
   
 
