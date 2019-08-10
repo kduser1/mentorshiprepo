@@ -51,8 +51,8 @@ App URLS
 
 | Test name	          | Description	           | Status  |
 | ------------- |:-------------:| -----:|
-| <li>Become a Mentee</li><ul><li>Create new sign up</li><li>Verify Email address</li></ul> |   |  |
-| li>Complete Mentee Profile</li><ul><li>Mentee Profile</li><li>Skills</li><li>Demographics</li><li>Socioeconomics</li></ul>   |       |    |
+| Become a Mentee<<ul><li>Create new sign up</li><li>Verify Email address</li></ul> |   |  |
+| Complete Mentee Profile<ul><li>Mentee Profile</li><li>Skills</li><li>Demographics</li><li>Socioeconomics</li></ul>   |       |    |
 | Apply to the project |       |    |
 | Complete Mentee Candidate Tasks|       |    |
 
@@ -61,8 +61,10 @@ App URLS
 
 | Test name	          | Description	           | Status  |
 | ------------- |:-------------:| -----:|
-| <li>Accept to Be a Mentor From an Email Invitation or Become a Mentee</li><ul><li>Create new sign up</li><li>Verify Email address</li></ul><li>Complete the profile</li><li>Manage Tasks<ul><li>      |   |   |
-| <li>Manage Mentee Applications<li><ul><li>Click a project of interest.</li><li>Select Mentees</li><li>Select a value from the Status drop-down list</li></ul>    |       |   |
+|Accept to Be a Mentor From an Email Invitation or Become a Mentee<ul><li>Create new sign up</li><li>Verify Email address</li></ul>     |   |   |
+|Complete the profile|  |  |
+|Manage Tasks |  |  |
+|Manage Mentee Applications<ul><li>Click a project of interest.</li><li>Select Mentees</li><li>Select a value from the Status drop-down list</li></ul>    |       |   |
 | zebra stripes | are neat      |    $1 |
 
 
