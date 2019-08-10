@@ -2,8 +2,8 @@
 <ul>
 <li><a href="#maintainer">Maintainer Login</a><br />
 </li>
-<li><a href="#hello-world">Hello World</a></li>
-<li><a href="#new-section">Another section</a> &lt;– it’s called ‘Another section’ in this list but refers to ‘New section’</li>
+<li><a href="#mentee">Mentee Login</a></li>
+<li><a href="#mentor">Mentor Login</a> 
 </ul>
 
 
@@ -74,8 +74,8 @@ All the Project Mentor added to proejct will get invite notification after proje
 **Open or Close Mentorship Applications**
 
 
+<h2 id="mentee">Mentee Login</h2>
 
-<h2>Mentee Login</h2>
 
 <ul><li>Become a Mentee</li>
 <ul><li>Create new sign up</li>
@@ -91,9 +91,7 @@ All the Project Mentor added to proejct will get invite notification after proje
  
 <li>Complete Mentee Candidate Tasks</li></ul>
   
-  
-
-<h2>Mentor Login</h2>
+<h2 id="mentor">Mentor Login</h2>
 
 <ul><li>Accept to Be a Mentor From an Email Invitation or Become a Mentee</li>
 <ul><li>Create new sign up</li>
