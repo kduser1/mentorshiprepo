@@ -34,7 +34,7 @@ App URLS
  
 
 <h2 id="maintainer">Maintainer Login</h2>
-**Enroll your project**</br>
+Enroll your project</br>
 
 | Test name	          | Description	           | Status  |
 | --------------------|:-------------:| -----:|
@@ -76,10 +76,6 @@ App URLS
 
 
 
-**Create New project**</br>
-<ol><li>Add Project Details</li>
-<li>Add Program Setup</li>
-<li>Add Application Tasks</li></ol>
 
 
 **Once maintainer submit his project email notifications will be sent in following conditions**
@@ -94,51 +90,4 @@ All the Project Mentor added to proejct will get invite notification after proje
 </li></ul>
 
 
-**Edit Project**</br>
-<ol><li>Edit Project Details</li>
-<li>Edit Program Setup</li>
-<li>Edit Application Tasks</li></ol>
 
-**Manage Mentee Applications**
-<ol><li>Click a project of interest.</li>
-<li>Select Mentees</li>
-<li>Select a value from the Status drop-down list</li></ol>
-
-**Manage Application Tasks**
-
-**Contact a Mentee**
-<ul><li>Call</li>
-<li>Email</li></ul>
-
-**Open or Close Mentorship Applications**
-
-
-<h2 id="mentee">Mentee Login</h2>
-
-
-<ul><li>Become a Mentee</li>
-<ul><li>Create new sign up</li>
-<li>Verify Email address</li></ul>
-
-<li>Complete Mentee Profile</li>
-<ul><li>Mentee Profile</li>
-<li>Skills</li>
-<li>Demographics</li>
-<li>Socioeconomics</li></ul>
- 
-<li>Apply to the project</li>
- 
-<li>Complete Mentee Candidate Tasks</li></ul>
-  
-<h2 id="mentor">Mentor Login</h2>
-
-<ul><li>Accept to Be a Mentor From an Email Invitation or Become a Mentee</li>
-<ul><li>Create new sign up</li>
-<li>Verify Email address</li></ul>
-<li>Complete the profile</li>
-<li>Manage Tasks<ul><li>
- 
-<li>Manage Mentee Applications<li>
-<ol><li>Click a project of interest.</li>
-<li>Select Mentees</li>
-<li>Select a value from the Status drop-down list</li></ol></ul>
