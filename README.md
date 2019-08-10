@@ -1,4 +1,7 @@
-<p>Go to section</p>
+<h1>Mentorship Testplan</h1>
+
+This document list all the features of Projects in CommunityBridge Mentorship
+
 <ul>
 <li><a href="#maintainer">Maintainer Login</a><br />
 </li>
@@ -7,31 +10,6 @@
 </ul>
 
 
-
-<h2 id="Maintainer Login">Maintainer Login</h2>
-<h3 id="Mentee Login">Mentee Login</h3>
-<h2 id="new-section">New section</h2>
-
-
-
-
-
-<h1>Mentorship Testplan</h1>
-
-This document list all the features of Projects in CommunityBridge Mentorship
-
-
-<h2>Maintainer Login</h2>
-<h2>Mentee Login</h2>
-<h2>Mentor Login</h2>
-
-
-<ul><li>
- <a name="Maintainer Login">Maintainer Login</a></li>
-<li>Mentee Login</li>
-<li>Mentor Login</li></ul>
-
- 
 
 <h2 id="maintainer">Maintainer Login</h2>
 
