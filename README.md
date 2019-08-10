@@ -1,12 +1,15 @@
 <p>Go to section</p>
 <ul>
-<li><a href="#hello">Hello</a><br />
+<li><a href="#maintainer">Maintainer Login</a><br />
 </li>
 <li><a href="#hello-world">Hello World</a></li>
 <li><a href="#new-section">Another section</a> &lt;– it’s called ‘Another section’ in this list but refers to ‘New section’</li>
 </ul>
-<h2 id="hello">Hello</h2>
-<h3 id="hello-world">Hello World</h3>
+
+
+
+<h2 id="Maintainer Login">Maintainer Login</h2>
+<h3 id="Mentee Login">Mentee Login</h3>
 <h2 id="new-section">New section</h2>
 
 
@@ -28,11 +31,9 @@ This document list all the features of Projects in CommunityBridge Mentorship
 <li>Mentee Login</li>
 <li>Mentor Login</li></ul>
 
- [Maintainer Login]
-
-<h2>
  
- Maintainer Login</h2>
+
+<h2 id="maintainer">Maintainer Login</h2>
 
 **Enroll your project**</br>
 
