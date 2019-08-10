@@ -38,11 +38,12 @@ App URLS
 
 | Test name	          | Description	           | Status  |
 | --------------------|:-------------:| -----:|
-|Create New project   |
-|Add Project Details  | right-aligned | $1600 |
-|Add Program Setup    | centered      |   $12 |
-|Add Application Tasks| are neat      |    $1 |
-
+|Create New project<ul><li>Add Project Details</li><li>Add Program Setup</li><li>Add Application Tasks</li></ul>  |
+|Edit Project<ul><li>Edit Project Details</li><li>Edit Program Setup</li><li>Edit Application Tasks</li></ul>  | right-aligned | $1600 |
+|Manage Mentee Applications<ul><li>Click a project of interest.</li><li>Select Mentees</li><li>Select a value from the Status drop-down list</li></ul>   | centered      |   $12 |
+|Manage Application Tasks| are neat      |    $1 |
+|Contact a Mentee <ul><li>Call</li><li>Email</li></ul>| are neat      |    $1 |
+|Open or Close Mentorship Applications| are neat      |    $1 |
 
 
 
