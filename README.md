@@ -3,8 +3,8 @@
 This document list all the features of Projects in CommunityBridge Mentorship
 
 <ul>
-<li><a href="#Test Requirements">Test Requirements</a><br />
-<li><a href="#maintainer">Maintainer Login</a><br /></li>
+<li><a href="#Test Requirements">Test Requirements</a></li>
+<li><a href="#maintainer">Maintainer Login</a></li>
 <ol><li>Enroll your project</li>
 <li>Create New project</li>
 <li>Edit Project</li>
@@ -13,8 +13,16 @@ This document list all the features of Projects in CommunityBridge Mentorship
 <li>Contact a Mentee</li></ol>
  
 <li><a href="#mentee">Mentee Login</a></li>
-<li><a href="#mentor">Mentor Login</a> 
-</ul>
+<ul><li>Become a Mentee</li>
+<li>Complete Mentee Profile</li>
+<li>Apply to the project</li>
+ <li>Complete Mentee Candidate Tasks</li></ul>
+
+<li><a href="#mentor">Mentor Login</a> </li>
+<ul><li>Accept to Be a Mentor From an Email Invitation or Become a Mentee</li>
+<li>Complete the profile</li>
+<li>Manage Tasks</li>
+<li>Manage Mentee Applications</li></ul></ul>
 
 
 <h2 id="Test Requirements">Test Requirements</h2>
@@ -28,11 +36,12 @@ App URLS
 <h2 id="maintainer">Maintainer Login</h2>
 **Enroll your project**</br>
 
-| Test name	        | Description	           | Status  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Test name	          | Description	           | Status  |
+| --------------------|:-------------:| -----:|
+|Create New project   |
+|Add Project Details  | right-aligned | $1600 |
+|Add Program Setup    | centered      |   $12 |
+|Add Application Tasks| are neat      |    $1 |
 
 
 
