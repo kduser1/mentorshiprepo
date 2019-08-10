@@ -39,20 +39,31 @@ App URLS
 | Test name	          | Description	           | Status  |
 | --------------------|:-------------:| -----:|
 |Create New project<ul><li>Add Project Details</li><li>Add Program Setup</li><li>Add Application Tasks</li></ul>  |
-|Edit Project<ul><li>Edit Project Details</li><li>Edit Program Setup</li><li>Edit Application Tasks</li></ul>  | right-aligned | $1600 |
-|Manage Mentee Applications<ul><li>Click a project of interest.</li><li>Select Mentees</li><li>Select a value from the Status drop-down list</li></ul>   | centered      |   $12 |
-|Manage Application Tasks| are neat      |    $1 |
-|Contact a Mentee <ul><li>Call</li><li>Email</li></ul>| are neat      |    $1 |
-|Open or Close Mentorship Applications| are neat      |    $1 |
+|Edit Project<ul><li>Edit Project Details</li><li>Edit Program Setup</li><li>Edit Application Tasks</li></ul>  |   |  |
+|Manage Mentee Applications<ul><li>Click a project of interest.</li><li>Select Mentees</li><li>Select a value from the Status drop-down list</li></ul>   |      |   |
+|Manage Application Tasks|       |     |
+|Contact a Mentee <ul><li>Call</li><li>Email</li></ul>|       |     |
+|Open or Close Mentorship Applications|       |     |
 
 
+<h2 id="mentee">Mentee Login</h2>
 
 
+| Test name	          | Description	           | Status  |
+| ------------- |:-------------:| -----:|
+| <li>Become a Mentee</li><ul><li>Create new sign up</li><li>Verify Email address</li></ul> |   |  |
+| li>Complete Mentee Profile</li><ul><li>Mentee Profile</li><li>Skills</li><li>Demographics</li><li>Socioeconomics</li></ul>   |       |    |
+| Apply to the project |       |    |
+| Complete Mentee Candidate Tasks|       |    |
 
 
+<h2 id="mentor">Mentor Login</h2>
 
-
-
+| Test name	          | Description	           | Status  |
+| ------------- |:-------------:| -----:|
+| <li>Accept to Be a Mentor From an Email Invitation or Become a Mentee</li><ul><li>Create new sign up</li><li>Verify Email address</li></ul><li>Complete the profile</li><li>Manage Tasks<ul><li>      |   |   |
+| <li>Manage Mentee Applications<li><ul><li>Click a project of interest.</li><li>Select Mentees</li><li>Select a value from the Status drop-down list</li></ul>    |       |   |
+| zebra stripes | are neat      |    $1 |
 
 
 
