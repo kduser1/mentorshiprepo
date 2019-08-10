@@ -4,8 +4,14 @@ This document list all the features of Projects in CommunityBridge Mentorship
 
 <ul>
 <li><a href="#Test Requirements">Test Requirements</a><br />
-<li><a href="#maintainer">Maintainer Login</a><br />
-</li>
+<li><a href="#maintainer">Maintainer Login</a><br /></li>
+<ol><li>Enroll your project</li>
+<li>Create New project</li>
+<li>Edit Project</li>
+<li>Manage Mentee Applications</li>
+<li>Manage Application Tasks</li>
+<li>Contact a Mentee</li></ol>
+ 
 <li><a href="#mentee">Mentee Login</a></li>
 <li><a href="#mentor">Mentor Login</a> 
 </ul>
@@ -16,13 +22,36 @@ App URLS
 <ul><li>Landing page: https://people.dev.platform.linuxfoundation.org</li>
 <li>Maintainer Login : https://project.test.lfcla.com</li>
 <li>Become a Mentor : https://people.dev.platform.linuxfoundation.org/participate/mentor</li>
- <li>Become a Mentee : https://people.dev.platform.linuxfoundation.org/participate/mentee</li>
+ <li>Become a Mentee : https://people.dev.platform.linuxfoundation.org/participate/mentee</li></ul>
  
-Few LFIDs to play different roles.
 
 <h2 id="maintainer">Maintainer Login</h2>
-
 **Enroll your project**</br>
+
+| Test name	        | Description	           | Status  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Create New project**</br>
 <ol><li>Add Project Details</li>
