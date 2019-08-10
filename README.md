@@ -3,6 +3,7 @@
 This document list all the features of Projects in CommunityBridge Mentorship
 
 <ul>
+<li><a href="#Test Requirements">Test Requirements</a><br />
 <li><a href="#maintainer">Maintainer Login</a><br />
 </li>
 <li><a href="#mentee">Mentee Login</a></li>
@@ -10,6 +11,14 @@ This document list all the features of Projects in CommunityBridge Mentorship
 </ul>
 
 
+<h2 id="Test Requirements">Test Requirements</h2>
+App URLS
+<ul><li>Landing page: https://people.dev.platform.linuxfoundation.org</li>
+<li>Maintainer Login : https://project.test.lfcla.com</li>
+<li>Become a Mentor : https://people.dev.platform.linuxfoundation.org/participate/mentor</li>
+ <li>Become a Mentee : https://people.dev.platform.linuxfoundation.org/participate/mentee</li>
+ 
+Few LFIDs to play different roles.
 
 <h2 id="maintainer">Maintainer Login</h2>
 
