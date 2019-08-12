@@ -76,10 +76,6 @@ Enroll your project</br>
 |Complete the profile|  |  |
 |Manage Tasks |  |  |
 |Manage Mentee Applications<ul><li>Click a project of interest.</li><li>Select Mentees</li><li>Select a value from the Status drop-down list</li></ul>    |       |   |
-| zebra stripes |    |    |
-
-
-
 
 
 <h2 id="employer">Employer Login</h2>
