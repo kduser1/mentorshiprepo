@@ -93,8 +93,9 @@ Enroll your project</br>
 | Test name	          | Description	           | Status  |
 | ------------- |:-------------:| -----:|
 |Employer<ul><li>Create new sign up</li><li>Verify Email address</li></ul>    |   |   |
-|Company Details |  |  |
-|Interview Contact |  |  |
+|Create Company<ul><li>Company Details</li><li>Employment Opportunities</li><li>Invites</li> |  |  |
+ |Once confirmed, your profile will be published and you will be notified.<ul><li>View Profile</li><li>Edit Profile</li>|</ul>   |  |
+| Fund Now |  |  |
 
 
 
