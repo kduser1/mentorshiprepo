@@ -25,6 +25,10 @@ This document list all the features of Projects in CommunityBridge Mentorship
 <li>Manage Mentee Applications</li></ul></ul>
 
 <li><a href="#employer">Employer Login</a> </li>
+<ul><li>Create Employer</li>
+<li>Create Company</li>
+<li>Fund Now </li></ul>
+
 
 
 <h2 id="Test Requirements">Test Requirements</h2>
