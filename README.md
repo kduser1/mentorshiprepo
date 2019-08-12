@@ -48,6 +48,7 @@ Enroll your project</br>
 | Test name	          | Description	           | Status  |
 | --------------------|:-------------:| -----:|
 |Create New project<ul><li>Add Project Details</li><li>Add Program Setup</li><li>Add Application Tasks</li></ul>  |
+|Approve or Reject CommunityBridge Project Applications|   |  |
 |Edit Project<ul><li>Edit Project Details</li><li>Edit Program Setup</li><li>Edit Application Tasks</li></ul>  |   |  |
 |Set Up a Stipend|       |     |
 |Get Reimbursed <ul><li>Sign Up to PayPal</li><li>Sign In to Expensify</li><li>Link a PayPal Reimbursement Account to Expensify</li><li>Fill Out and Submit an Expense Report</li></ul>|      |      |
@@ -72,7 +73,8 @@ Enroll your project</br>
 
 | Test name	          | Description	           | Status  |
 | ------------- |:-------------:| -----:|
-|Accept to Be a Mentor From an Email Invitation or Become a Mentee<ul><li>Create new sign up</li><li>Verify Email address</li></ul>     |   |   |
+|Accept to Be a Mentor From an Email Invitation or Become a Mentee|    |    |
+|Become a Mentor<ul><li>Create new sign up</li><li>Verify Email address</li></ul>     |   |   |
 |Complete the profile|  |  |
 |Manage Tasks <ul><li>Add a Task</li><li>Change Your Task Status</li><li>Edit a Task</li></ul> |  |  |
 |Manage Mentee Applications<ul><li>Click a project of interest.</li><li>Select Mentees</li><li>Select a value from the Status drop-down list</li></ul>    |       |   |
