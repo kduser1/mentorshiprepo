@@ -22,12 +22,12 @@ This document list all the features of Projects in CommunityBridge Mentorship
 <ul><li>Accept to Be a Mentor From an Email Invitation or Become a Mentee</li>
 <li>Complete the profile</li>
 <li>Manage Tasks</li>
-<li>Manage Mentee Applications</li></ul></ul>
+<li>Manage Mentee Applications</li></ul>
 
 <li><a href="#employer">Employer Login</a> </li>
 <ul><li>Create Employer</li>
 <li>Create Company</li>
-<li>Fund Now </li></ul>
+<li>Fund Now </li></ul></ul>
 
 
 
