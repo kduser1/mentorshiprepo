@@ -5,12 +5,12 @@ This document list all the features of Projects in CommunityBridge Mentorship
 <ul>
 <li><a href="#Test Requirements">Test Requirements</a></li>
 <li><a href="#maintainer">Maintainer Login</a></li>
-<ul><li>Enroll your project</li>
+<ol><li>Enroll your project</li>
 <li>Create New project</li>
 <li>Edit Project</li>
 <li>Manage Mentee Applications</li>
 <li>Manage Application Tasks</li>
-<li>Contact a Mentee</li></ul>
+<li>Contact a Mentee</li></ol>
  
 <li><a href="#mentee">Mentee Login</a></li>
 <ul><li>Become a Mentee</li>
@@ -27,17 +27,20 @@ This document list all the features of Projects in CommunityBridge Mentorship
 <li><a href="#employer">Employer Login</a> </li>
 <ul><li>Create Employer</li>
 <li>Create Company</li>
-<li>Fund Now </li></ul></ul>
+<li>Fund Now </li></ul>
 
-
+<li><a href="#manageyourmentorship">Manage Your Mentorship Account</a> </li>
+<ul><li>Edit Your Mentorship Profile</li>
+<li>Edit a Project</li>
+<li>Open or Close Mentorship Applications </li></ul></ul>
 
 <h2 id="Test Requirements">Test Requirements</h2>
 App URLS
 <ul><li>Landing page: https://people.dev.platform.linuxfoundation.org</li>
 <li>Maintainer Login : https://project.test.lfcla.com</li>
 <li>Become a Mentor : https://people.dev.platform.linuxfoundation.org/participate/mentor</li>
- <li>Become a Mentee : https://people.dev.platform.linuxfoundation.org/participate/mentee</li></ul>
- 
+<li>Become a Mentee : https://people.dev.platform.linuxfoundation.org/participate/mentee</li>
+<li>Employer : https://people.dev.platform.linuxfoundation.org/participate/employer</li></ul>
 
 <h2 id="maintainer">Maintainer Login</h2>
 Enroll your project</br>
@@ -91,5 +94,15 @@ Enroll your project</br>
 
 
 
+
+
+<h2 id="manageyourmentorship">Manage Your Mentorship Account</h2>
+
+| Test name	          | Description	           | Status  |
+| ------------- |:-------------:| -----:|
+|Edit Your Mentorship Profile<ul><li>Become a Mentee</li><li>Become a Mentor</li><li>Create a Company Profile</li></ul>    |   |   |
+|Edit a Project|  |  |
+|Open or Close Mentorship Applications|   |  |
+   
 
 
