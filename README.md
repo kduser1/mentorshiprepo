@@ -49,12 +49,9 @@ Enroll your project</br>
 | --------------------|:-------------:| -----:|
 |Create New project<ul><li>Add Project Details</li><li>Add Program Setup</li><li>Add Application Tasks</li></ul>  |
 |Edit Project<ul><li>Edit Project Details</li><li>Edit Program Setup</li><li>Edit Application Tasks</li></ul>  |   |  |
-|Manage Mentee Applications<ul><li>Click a project of interest.</li><li>Select Mentees</li><li>Select a value from the Status drop-down list</li></ul>   |      |   |
-|Manage Application Tasks<ul><li>Add a Task</li><li>Change Your Task Status</li><li>Edit a Task</li></ul> |       |     |
-|Contact a Mentee <ul><li>Call</li><li>Email</li></ul>|       |     |
 |Set Up a Stipend|       |     |
 |Get Reimbursed <ul><li>Sign Up to PayPal</li><li>Sign In to Expensify</li><li>Link a PayPal Reimbursement Account to Expensify</li><li>Fill Out and Submit an Expense Report</li></ul>|      |      |
-|Manage Your Project Mentees <ul><li>Manage Mentee Applications</li><li>Manage Application Tasks</li><li>Contact a Mentee</li></ul>|    |     |
+|Manage Your Project Mentees <ul><li>Manage Mentee Applications<ul><li>Click a project of interest.</li><li>Select Mentees</li><li>Select a value from the Status drop-down list</li></ul></li><li>Manage Application Tasks<ul><li>Add a Task</li><li>Change Your Task Status</li><li>Edit a Task</li></ul> </li><li>Contact a Mentee<ul><li>Call</li><li>Email</li></ul></li></ul>|    |     |
 |Open or Close Mentorship Applications       |     |
 |Once maintainer submit his project email notifications will be sent in following conditions<ul><li>Maintainer will get review project email for people and funding project(depending on which platform project is added that mail will also contain edit project button)</li><li>A new project has been submitted email is sent to a Linux Foundation administrator for people as well as for funding project. The administrator reviews your application and approves or rejects it.</li><li>After Linux Foundation Administrator approves project will apapear in project list (Depending on project approve for people or funding platform it will appear in respective platform)also maintainer will get email notification</li><li>All the Project Mentor added to proejct will get invite notification after project is approved as "You've been Invited to be a Mentor</li></ul>
 
