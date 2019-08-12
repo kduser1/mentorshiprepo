@@ -5,12 +5,12 @@ This document list all the features of Projects in CommunityBridge Mentorship
 <ul>
 <li><a href="#Test Requirements">Test Requirements</a></li>
 <li><a href="#maintainer">Maintainer Login</a></li>
-<ol><li>Enroll your project</li>
+<ul><li>Enroll your project</li>
 <li>Create New project</li>
 <li>Edit Project</li>
 <li>Manage Mentee Applications</li>
 <li>Manage Application Tasks</li>
-<li>Contact a Mentee</li></ol>
+<li>Contact a Mentee</li></ul>
  
 <li><a href="#mentee">Mentee Login</a></li>
 <ul><li>Become a Mentee</li>
