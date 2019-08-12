@@ -24,6 +24,8 @@ This document list all the features of Projects in CommunityBridge Mentorship
 <li>Manage Tasks</li>
 <li>Manage Mentee Applications</li></ul></ul>
 
+<li><a href="#employer">Employer Login</a> </li>
+
 
 <h2 id="Test Requirements">Test Requirements</h2>
 App URLS
@@ -51,7 +53,7 @@ Enroll your project</br>
 
 | Test name	          | Description	           | Status  |
 | ------------- |:-------------:| -----:|
-| Become a Mentee<<ul><li>Create new sign up</li><li>Verify Email address</li></ul> |   |  |
+| Become a Mentee<ul><li>Create new sign up</li><li>Verify Email address</li></ul> |   |  |
 | Complete Mentee Profile<ul><li>Mentee Profile</li><li>Skills</li><li>Demographics</li><li>Socioeconomics</li></ul>   |       |    |
 | Apply to the project |       |    |
 | Complete Mentee Candidate Tasks|       |    |
@@ -65,12 +67,16 @@ Enroll your project</br>
 |Complete the profile|  |  |
 |Manage Tasks |  |  |
 |Manage Mentee Applications<ul><li>Click a project of interest.</li><li>Select Mentees</li><li>Select a value from the Status drop-down list</li></ul>    |       |   |
-| zebra stripes | are neat      |    $1 |
+| zebra stripes | are neat      |    |
 
 
 
-
-
+<h2 id="employer">Employer Login</h2>
+| Test name	          | Description	           | Status  |
+| ------------- |:-------------:| -----:|
+| Employer<ul><li>Create new sign up</li><li>Verify Email address</li></ul>      |      |     |
+| Company Details    |      |     |
+| Interview Contact |      |     |
 
 
 
