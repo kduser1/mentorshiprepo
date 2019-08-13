@@ -8,7 +8,6 @@ This document list all the features of Projects in CommunityBridge Mentorship
 <ol><li>Enroll your project</li>
 <li>Edit Project</li>
 <li>Set Up a Stipend</li>
-<li>Get Reimbursed</li>
 <li>Manage Your Project Mentees</li>
 <li>Open or Close Mentorship Applications  </li></ol>
  
@@ -17,7 +16,7 @@ This document list all the features of Projects in CommunityBridge Mentorship
 <li>Complete Mentee Profile</li>
 <li>Apply to the project</li>
 <li>Complete Mentee Candidate Tasks</li>
-<li> Advance Your Career</li>
+<li>Advance Your Career</li>
 <li>Fund Now </li>
 <li>Edit Your Mentorship Profile</li></ul>
 
