@@ -7,26 +7,32 @@ This document list all the features of Projects in CommunityBridge Mentorship
 <li><a href="#maintainer">Maintainer Login</a></li>
 <ol><li>Enroll your project</li>
 <li>Edit Project</li>
-<li>Manage Mentee Applications</li>
-<li>Manage Application Tasks</li>
-<li>Contact a Mentee</li></ol>
+<li>Set Up a Stipend</li>
+<li>Get Reimbursed</li>
+<li>Manage Your Project Mentees</li>
+<li>Open or Close Mentorship Applications  </li></ol>
  
 <li><a href="#mentee">Mentee Login</a></li>
 <ul><li>Become a Mentee</li>
 <li>Complete Mentee Profile</li>
 <li>Apply to the project</li>
- <li>Complete Mentee Candidate Tasks</li></ul>
+<li>Complete Mentee Candidate Tasks</li>
+<li> Advance Your Career</li>
+<li>Fund Now </li>
+<li>Edit Your Mentorship Profile</li></ul>
 
 <li><a href="#mentor">Mentor Login</a> </li>
 <ul><li>Accept to Be a Mentor From an Email Invitation or Become a Mentee</li>
 <li>Complete the profile</li>
 <li>Manage Tasks</li>
-<li>Manage Mentee Applications</li></ul>
+<li>Manage Mentee Applications</li>
+ <li>Edit Your Mentorship Profile</li></ul>
 
 <li><a href="#employer">Employer Login</a> </li>
 <ul><li>Create Employer</li>
 <li>Create Company</li>
-<li>Fund Now </li></ul>
+<li>Fund Now </li>
+ <li>Edit Your Mentorship Profile</li></ul>
 
 
 <h2 id="Test Requirements">Test Requirements</h2>
@@ -71,7 +77,7 @@ App URLS
 | Complete Mentee Candidate Tasks|       |    |
 | Advance Your Career |     |    |
 | Fund Now |      |     |
-|Edit Your Mentorship Profile<ul><li>Become a Maintainer</li><li>Become a Mentor</li><li>Create a Company Profile</li></ul>|  |    |
+| Edit Your Mentorship Profile<ul><li>Become a Maintainer</li><li>Become a Mentor</li><li>Create a Company Profile</li></ul>|  |    |
 
 
 <h2 id="mentor">Mentor Login</h2>
