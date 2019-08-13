@@ -29,10 +29,6 @@ This document list all the features of Projects in CommunityBridge Mentorship
 <li>Create Company</li>
 <li>Fund Now </li></ul>
 
-<li><a href="#manageyourmentorship">Manage Your Mentorship Account</a> </li>
-<ul><li>Edit Your Mentorship Profile</li>
-<li>Edit a Project</li>
-<li>Open or Close Mentorship Applications </li></ul></ul>
 
 <h2 id="Test Requirements">Test Requirements</h2>
 App URLS
@@ -67,6 +63,9 @@ Enroll your project</br>
 | Complete Mentee Profile<ul><li>Mentee Profile</li><li>Skills</li><li>Demographics</li><li>Socioeconomics</li></ul>   |       |    |
 | Apply to the project |       |    |
 | Complete Mentee Candidate Tasks|       |    |
+| Advance Your Career |     |    |
+| Fund Now |      |     |
+|Edit Your Mentorship Profile<ul><li>Become a Maintainer</li><li>Become a Mentor</li><li>Create a Company Profile</li></ul>|  |    |
 
 
 <h2 id="mentor">Mentor Login</h2>
@@ -78,6 +77,8 @@ Enroll your project</br>
 |Complete the profile|  |  |
 |Manage Tasks <ul><li>Add a Task</li><li>Change Your Task Status</li><li>Edit a Task</li></ul> |  |  |
 |Manage Mentee Applications<ul><li>Click a project of interest.</li><li>Select Mentees</li><li>Select a value from the Status drop-down list</li></ul>    |       |   |
+|Edit Your Mentorship Profile<ul><li>Become a Maintainer</li><li>Become a Mentee</li><li>Create a Company Profile</li></ul>
+|    |    |
 
 
 <h2 id="employer">Employer Login</h2>
@@ -86,21 +87,14 @@ Enroll your project</br>
 | ------------- |:-------------:| -----:|
 |Employer<ul><li>Create new sign up</li><li>Verify Email address</li></ul>    |   |   |
 |Create Company<ul><li>Company Details</li><li>Employment Opportunities</li><li>Financial Support</li><li>Invites</li> |  |  |
- |Once confirmed, your profile will be published and you will be notified.<ul><li>View Profile</li><li>Edit Profile</li>|</ul>   |  |
+|Once confirmed, your profile will be published and you will be notified.<ul><li>View Profile</li><li>Edit Profile</li>|</ul>   |  |
 | Fund Now |  |  |
+|Edit Your Mentorship Profile<ul><li>Become a Maintainer</li><li>Become a Mentee</li><li>Become a Mentor</li></ul>
+|    |    |
 
 
 
 
 
-
-<h2 id="manageyourmentorship">Manage Your Mentorship Account</h2>
-
-| Test name	          | Description	           | Status  |
-| ------------- |:-------------:| -----:|
-|Edit Your Mentorship Profile<ul><li>Become a Mentee</li><li>Become a Mentor</li><li>Create a Company Profile</li></ul>    |   |   |
-|Edit a Project|  |  |
-|Open or Close Mentorship Applications|   |  |
-   
 
 
