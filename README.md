@@ -6,7 +6,6 @@ This document list all the features of Projects in CommunityBridge Mentorship
 <li><a href="#Test Requirements">Test Requirements</a></li>
 <li><a href="#maintainer">Maintainer Login</a></li>
 <ol><li>Enroll your project</li>
-<li>Create New project</li>
 <li>Edit Project</li>
 <li>Manage Mentee Applications</li>
 <li>Manage Application Tasks</li>
@@ -38,12 +37,19 @@ App URLS
 <li>Become a Mentee : https://people.dev.platform.linuxfoundation.org/participate/mentee</li>
 <li>Employer : https://people.dev.platform.linuxfoundation.org/participate/employer</li></ul>
 
+
+<h2>CommunityBridge Mentorship</h2>
+<ul><li>Project Details </li>
+<li>Donate to a Project in Mentorship</li>
+<li>View a Mentor or Mentee Profile</li></ul>
+
+
 <h2 id="maintainer">Maintainer Login</h2>
-Enroll your project</br>
+
 
 | Test name	          | Description	           | Status  |
 | --------------------|:-------------:| -----:|
-|Create New project<ul><li>Add Project Details</li><li>Add Program Setup</li><li>Add Application Tasks</li></ul>  |
+|Enroll your project<ul><li>Add Project Details</li><li>Add Program Setup</li><li>Add Application Tasks</li></ul>  |
 |Approve or Reject CommunityBridge Project Applications|   |  |
 |Edit Project<ul><li>Edit Project Details</li><li>Edit Program Setup</li><li>Edit Application Tasks</li></ul>  |   |  |
 |Set Up a Stipend|       |     |
@@ -87,7 +93,7 @@ Enroll your project</br>
 | ------------- |:-------------:| -----:|
 |Employer<ul><li>Create new sign up</li><li>Verify Email address</li></ul>    |   |   |
 |Create Company<ul><li>Company Details</li><li>Employment Opportunities</li><li>Financial Support</li><li>Invites</li> |  |  |
-|Once confirmed, your profile will be published and you will be notified.<ul><li>View Profile</li><li>Edit Profile</li>|</ul>   |  |
+|Once confirmed, your profile will be published and you will be notified.<ul><li>View Profile</li><li>Edit Profile</li></ul>|   |  |
 | Fund Now |  |  |
 |Edit Your Mentorship Profile<ul><li>Become a Maintainer</li><li>Become a Mentee</li><li>Become a Mentor</li></ul>
 |    |    |
